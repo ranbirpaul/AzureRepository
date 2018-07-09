@@ -5,7 +5,7 @@
       "name": "myIoTHubMessage",
       "direction": "in",
       "path": "samples-workitems",
-      "connection": "iothubdcalh_events_IOTHUB",
+      "connection": "iothub-connection",
       "consumerGroup": "$Default"
     }
   ],
